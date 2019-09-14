@@ -1,3 +1,6 @@
 *.Rproj*
 *.Rhist*
 .Rproj.user
+
+*.o
+*.dll
